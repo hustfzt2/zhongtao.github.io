@@ -3,11 +3,8 @@
 Zhongtao Fu
 
 Lecturer, Wuhan Institute of Technology 
-
 School of Mechanical and Electrical Engineering (Office 214)
-
-Email: zhongtao.fu@kcl.ac.uk   Tel: (086)181-8648-7008 
-
+Email: zhongtao.fu@kcl.ac.uk  Tel: (086)181-8648-7008 
 Address: No.206, Guanggu 1st road, East-Lake New-High Tech. Development Zone, Wuhan 430205, China
 
 

@@ -1,8 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to my main page
 
-You can use the [editor on GitHub](https://github.com/hustfzt2/zhongtao.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Zhongtao Fu
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Lecturer, Wuhan Institute of Technology 
+School of Mechanical and Electrical Engineering (Office 214)
+Email: zhongtao.fu@kcl.ac.uk Tel: (086)181-8648-7008 
+Address: No.206, Guanggu 1st road, East-Lake New-High Tech. Development Zone, Wuhan 430205, China
+
 
 ### Markdown
 

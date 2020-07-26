@@ -12,9 +12,11 @@ Address: No.206, Guanggu 1st road, East-Lake New-High Tech. Development Zone, Wu
 
 
 Research Interests
+
 My research interests are in theory and applications of robotics on manufacturing, which encompass robot kinematics/dynamics, robot-robot/human-collaboration. I am particularly interested in finding the inner connections between the advanced algorithms and machining qualities, which enables efficient and accurate control for robot manufacturing system and perform advanced level of flexibility that robots demonstrate.
 
 Project Funding
+
 Rest: NSFC (51805380) 2018-2021: Research on error compensation strategy of robot machining trajectory for complex surface based on Clifford algebra.
 Completed: Hubei (2017CFB346) 2017-2019: Research on collaborative motion control of multi-robot for intersecting curve welding (Distinguished)
 
@@ -27,16 +29,18 @@ Thesis: Optimization analysis of roller convexity for tapered roller bearing (Fi
 
 
 Research Experiences
+
 Jun 2016,  Lecturer, Wuhan Institute of Technology, School of Mechanical and Electric Engineering, China
 Mar 2016,  Senior Engineer, Wuhan Cobot Technology Ltd.Co., China
 Dec 2018, Visiting Research Fellow, at Core, Kings’ College London, UK
 
 Award
+
 2016 IROS Competition on Grasping and Manipulation, Team: Dorabot & Cobot, Second Place
 2007,2008,2010  Scholarship for Distinguished Students.
 
-
 Publications 
+
 Journal Articles Selected
 
 1.	Z Fu, JS Dai, K Yang, X Chen, P López-Custodio. Analysis of unified error model and simulated parameters calibration for robotic machining based on Lie theory. Robotics and Computer-Integrated Manufacturing 61, 101855,2020
@@ -62,13 +66,11 @@ Patents
 5.	Post-processing Software of Robot milling V1.0. No. 2019SR1168645
 6.	Simulation software of industrial spraying robot V1.0. No. 2013SR025026.
 
-
 Professional Service
 Reviewer
 NSFC 
 ICRA 2020
 Robotica, Machine and Mechanism Theory, Measurement, Inverse Problems in Science & Engineering
-
 
 Skills
 1.	Robotics: robot manipulation and control, robotic hand, human robot interaction, signal processing, optimal control.
